@@ -1,0 +1,56 @@
+/*
+Theme Name: Twenty Fifteen Child for my site
+Theme URI: http://mkrdip.me
+Author: Mrinal Kanti Roy
+Author URI: http://mkrdip.me
+Description: Added few customizations to awesome Twenty Fifteen Theme.
+Version: 1.0
+Text Domain: twentyfifteen
+template: twentyfifteen
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: black, blue, gray, pink, purple, white, yellow, dark, light, two-columns, left-sidebar, fixed-layout, responsive-layout, accessibility-ready, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready
+Text Domain: twentyfifteen
+*/
+
+@import url( '../twentyfifteen/style.css' );
+
+.site-description {
+	display: block !important;
+}
+@media screen and (min-width: 68.75em) {
+.site-description {
+	font-size: 14px !important;
+	font-size: 1.4rem !important;
+}	
+}
+
+.sub-menu span {
+    font-size: 85% !important;
+}
+
+.intro-title {
+	float: left;
+}
+.intro-avatar {
+	float: right;
+	margin: 0 0 0 5%;
+}
+
+.ninja-forms-required-items {
+    margin-bottom: 20px;
+}
+
+.ninja-forms-column-left {
+	width: 47.5%;
+	float: left;
+}
+.ninja-forms-column-right {
+	width: 47.5%;
+	float: right;
+}
+.wp-credit {
+	float: left;
+}
+.copyright-info {
+	float: right;
+}
