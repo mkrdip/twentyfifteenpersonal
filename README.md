@@ -1,7 +1,7 @@
 # Twenty Fifteen Child Theme
+Advanced Customization of WordPress's official Twenty Fifteen Theme for my personal website using: http://mkrdip.me
 
 [![Join the chat at https://gitter.im/mkrdip/Twenty-Fifteen-Child](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mkrdip/Twenty-Fifteen-Child?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-Advanced Customization of Twenty Fifteen Theme for my personal website: http://mkrdip.me
 
 **Stylesheet Customization (style.css)**
 
