@@ -18,12 +18,19 @@ Text Domain: twentyfifteen
 	display: block !important;
 }
 @media screen and (min-width: 68.75em) {
-.site-description {
+	.site-description {
 	font-size: 14px !important;
 	font-size: 1.4rem !important;
-}	
+	}	
 }
-
+@media screen and (min-width: 59.6875em) {
+	.site-header {
+		margin: 10% 0 5% !important;
+	}
+	.social-navigation {
+		margin: 0 20% 10% !important;
+	}
+}
 .sub-menu span {
     font-size: 85% !important;
 }
