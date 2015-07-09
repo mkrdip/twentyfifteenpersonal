@@ -11,3 +11,12 @@ Advanced Customization of WordPress's official Twenty Fifteen Theme for my perso
 4. Customized few styles of Ninja Forms element (Added column layout, Reduced font size of required items error text)
 5. Added styles for WP credit & copyright text.
 
+**Header Customization (header.php)**
+
+**Sidebar Customization (sidebar.php)**
+
+**Content Customization (content.php)**
+
+**Functions Customization (functions.php)**
+
+**Footer Customization (footer.php)**
