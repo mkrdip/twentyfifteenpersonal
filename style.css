@@ -23,6 +23,7 @@ Text Domain: twentyfifteen
 	font-size: 1.4rem !important;
 	}	
 }
+
 @media screen and (min-width: 59.6875em) {
 	.site-header {
 		margin: 10% 0 5% !important;
@@ -31,6 +32,7 @@ Text Domain: twentyfifteen
 		margin: 0 20% 10% !important;
 	}
 }
+
 .sub-menu span {
     font-size: 85% !important;
 }
@@ -41,6 +43,22 @@ Text Domain: twentyfifteen
 .intro-avatar {
 	float: right;
 	margin: 0 0 0 5%;
+}
+
+.entry-title {
+    font-size: 20px;
+    font-size: 2rem;
+    line-height: 1.0538;
+    margin-bottom: 0.5231em;
+}
+
+@media screen and (min-width: 77.5em) {
+    .entry-title {
+        font-size: 30px;
+        font-size: 3rem;
+        line-height: 1.1308;
+        margin-bottom: 0.8308em;
+    }
 }
 
 .ninja-forms-required-items {
