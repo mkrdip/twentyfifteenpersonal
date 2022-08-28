@@ -1,22 +1,13 @@
-# Twenty Fifteen Child Theme
-Advanced Customization of WordPress's official Twenty Fifteen Theme for my personal website using: https://mrinalroy.com
+# Twenty Fifteen Personal
 
-[![Code Climate](https://codeclimate.com/github/mkrdip/Twenty-Fifteen-Child/badges/gpa.svg)](https://codeclimate.com/github/mkrdip/Twenty-Fifteen-Child) [![Join the chat at https://gitter.im/mkrdip/Twenty-Fifteen-Child](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mkrdip/Twenty-Fifteen-Child?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+A child theme of Twenty Fifteen theme to make it more personal.
 
-**Stylesheet Customization (style.css)**
+![Twenty Fifteen Personal Screenshot](/screenshot.png)
 
-1. Reduced font size of Tagline in smaller devices.
-2. Reduced font size of Sub Menu items in all devices.
-3. Added styles for Custom Introduction Text & Avatar in Homepage. 
-4. Customized few styles of Ninja Forms element (Added column layout, Reduced font size of required items error text)
-5. Added styles for WP credit & copyright text.
+Highlights of the changes this theme contains: 
 
-**Header Customization (header.php)**
-
-**Sidebar Customization (sidebar.php)**
-
-**Content Customization (content.php)**
-
-**Functions Customization (functions.php)**
-
-**Footer Customization (footer.php)**
+- Author bio and gravatar at the top of the home page. 
+- Social Links Menu right after the site title and description.
+- Footer customization with copyright info.
+- An additonal footer menu.
+- Additional CSS customization to override parent theme's style
