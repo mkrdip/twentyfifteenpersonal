@@ -9,5 +9,5 @@ Highlights of the changes this theme contains:
 - Author bio and gravatar at the top of the home page. 
 - Social Links Menu right after the site title and description.
 - Footer customization with copyright info.
-- An additonal footer menu.
-- Additional CSS customization to override parent theme's style
+- Additional CSS customization to override parent theme's style.
+- An additonal footer menu. (Planned)
