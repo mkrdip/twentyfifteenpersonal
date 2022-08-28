@@ -1,81 +1,72 @@
 /*
-Theme Name: Twenty Fifteen Child for my site
-Theme URI: http://mkrdip.me/twenty-fifteen-child-theme/
-Author: Mrinal Kanti Roy
-Author URI: http://mkrdip.me
-Description: Added few customizations to awesome Twenty Fifteen Theme.
+Theme Name: Twenty Fifteen Personal
+Theme URI: https://mrinalroy.com/wordpress/themes/twenty-fifteen-personal/
+Author: Mrinal Roy
+Author URI: https://mrinalroy.com
+Description: A child theme of Twenty Fifteen theme to make it more personal.
 Version: 1.0
+Tested up to: 6.0
+Requires PHP: 5.2.4
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: Accessibility Ready, Block Editor Patterns, Blog, Custom Background, Custom Colors, Custom Header, Custom Logo, Custom Menu, Editor Style, Featured Images, Left Sidebar, Microformats, Post Formats, RTL Language Support, Sticky Post, Threaded Comments, Translation Ready, Two Columns
 Text Domain: twentyfifteen
 template: twentyfifteen
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Tags: black, blue, gray, pink, purple, white, yellow, dark, light, two-columns, left-sidebar, fixed-layout, responsive-layout, accessibility-ready, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready
-Text Domain: twentyfifteen
+
+This theme, like WordPress and Twenty Fifteen theme, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
 */
 
 @import url( '../twentyfifteen/style.css' );
 
 .site-description {
-	display: block !important;
+	display: block;
 }
+
 @media screen and (min-width: 68.75em) {
 	.site-description {
-	font-size: 14px !important;
-	font-size: 1.4rem !important;
+		font-size: 12px;
+		font-size: 1.2rem;
 	}	
 }
 
 @media screen and (min-width: 59.6875em) {
 	.site-header {
-		margin: 10% 0 5% !important;
+		margin: 10% 0 5%;
 	}
 	.social-navigation {
-		margin: 0 20% 10% !important;
+		margin: 0 20% 10%;
 	}
 }
 
 .sub-menu span {
-    font-size: 85% !important;
+    font-size: 85%;
 }
 
 .intro-title {
 	float: left;
 }
+
 .intro-avatar {
 	float: right;
 	margin: 0 0 0 5%;
 }
 
-.entry-title {
-    font-size: 20px;
-    font-size: 2rem;
-    line-height: 1.0538;
-    margin-bottom: 0.5231em;
+p.intro-text {
+    font-size: 87%;
+    padding-top: 2.5%;
 }
 
 @media screen and (min-width: 77.5em) {
     .entry-title {
-        font-size: 30px;
-        font-size: 3rem;
-        line-height: 1.1308;
-        margin-bottom: 0.8308em;
+        font-size: 3.4rem;
     }
 }
 
-.ninja-forms-required-items {
-    margin-bottom: 20px;
-}
-
-.ninja-forms-column-left {
-	width: 47.5%;
-	float: left;
-}
-.ninja-forms-column-right {
-	width: 47.5%;
-	float: right;
-}
 .wp-credit {
 	float: left;
 }
+
 .copyright-info {
 	float: right;
 }
